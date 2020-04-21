@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dotnetcore-closest-matching-string", "dotnetcore-closest-matching-string\dotnetcore-closest-matching-string.csproj", "{CF5F999E-3134-49ED-A095-E42B5FDE1543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetcore-closest-matching-string.Tests", "dotnetcore-closest-matching-string.Tests\dotnetcore-closest-matching-string.Tests.csproj", "{20F63408-3BDF-4A5E-BFAB-77455D25B399}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF5F999E-3134-49ED-A095-E42B5FDE1543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF5F999E-3134-49ED-A095-E42B5FDE1543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF5F999E-3134-49ED-A095-E42B5FDE1543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF5F999E-3134-49ED-A095-E42B5FDE1543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20F63408-3BDF-4A5E-BFAB-77455D25B399}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F63408-3BDF-4A5E-BFAB-77455D25B399}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F63408-3BDF-4A5E-BFAB-77455D25B399}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F63408-3BDF-4A5E-BFAB-77455D25B399}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5972BA5-9EC2-4590-A8C8-3DCC68703E4A}
+	EndGlobalSection
+EndGlobal
