@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package  xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>    
+    <id>dotnetcore-kNameMatching</id>
+    <version>1.0.0</version>
+    <title>kNameMatching</title>
+    <authors>Ronnie Jørgensen</authors>
+    <owners>Ronnie Jørgensen</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>.NET Core library for finding single closted name in a sequence of objects</description>
+    <releaseNotes></releaseNotes>
+    <copyright></copyright>
+    <tags></tags>
+    <dependencies>
+    </dependencies>
+    <summary>.NET Core library for finding single closted name in a sequence of objects</summary>
+  </metadata>
+  <files>
+    <file src="readme.md" target="" />
+  </files>
+</package>

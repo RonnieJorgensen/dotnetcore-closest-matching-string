@@ -1,7 +1,7 @@
 
-# dotnetcore-klo
+# dotnetcore-kNameMatching
 
-.NET Core library for finding single closest string in a sequence of objects
+.NET Core library for finding single closted name in a sequence of objects
 
 ## Matching names
 This plugin is primarily intended for matching a name with a list of names. This is achieved in multiple steps (all case-insensitive):
